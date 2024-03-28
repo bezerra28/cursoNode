@@ -13,5 +13,5 @@ function calculaProduto(a, b = 2, c = 1) {
   console.log("Resultado 4:", resultado4);
 
   // teste git
-  console.log("alexandre alves");
+  console.log("alexandre alves tentando de novo exemplo 1");
   
