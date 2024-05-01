@@ -15,4 +15,4 @@ function exibeNomeENota(aluno) {
 }
 
 exibeNomeENota('Juliana');
-exibeNomeENota('Maria');
+exibeNomeENota('julia');
